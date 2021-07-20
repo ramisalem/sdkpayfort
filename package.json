@@ -12,7 +12,7 @@
   "dependencies": {
     "@mahmoudaliibrahim/react-native-payfort-sdk": "https://github.com/MahmoudAliIbrahim/RN-Payfort-SDK/tarball/master",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-payfort-sdk": "^1.0.6"
   },
   "devDependencies": {
