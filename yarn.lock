@@ -842,6 +842,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@mahmoudaliibrahim/react-native-payfort-sdk@https://github.com/MahmoudAliIbrahim/RN-Payfort-SDK/tarball/master":
+  version "1.0.6"
+  uid "7cb3421d503996d417b288a12dca1213207a4ebe"
+  resolved "https://github.com/MahmoudAliIbrahim/RN-Payfort-SDK/tarball/master#7cb3421d503996d417b288a12dca1213207a4ebe"
+
 "@react-native-community/cli-debugger-ui@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-3.0.0.tgz#d01d08d1e5ddc1633d82c7d84d48fff07bd39416"
@@ -5064,6 +5069,11 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
+react-native-payfort-sdk@^1.0.6:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/react-native-payfort-sdk/-/react-native-payfort-sdk-1.0.10.tgz#3467cf7e989364b913129573e665cd590e16c9d4"
+  integrity sha512-4ewAM9N8XMlgXBcftwqLC+vznQPXnSA3GS7400oubYseyKDebZ5lMlkU5OSbATDD8OavcZDawI7TM+T0MCzW0g==
+
 react-native@0.61.5:
   version "0.61.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.5.tgz#6e21acb56cbd75a3baeb1f70201a66f42600bba8"
@@ -5975,9 +5985,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
